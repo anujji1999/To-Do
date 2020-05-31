@@ -2,6 +2,8 @@
 [Link to Working Demo Video](https://youtu.be/GlxsMcLx8DM)
 
 ## Tasks Completed
+- [x] Splash Screen
+- [x] OnBoarding/Walkthrough Screen
 - [x] New Task Button
 - [x] Submit button Saves Task in SQLite Database
 - [x] Display checkbox along with each task
