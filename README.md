@@ -11,4 +11,4 @@
 - [x] All the states/actions are saved in the SQLite database
 - [x] Added search functionality
 - [x] Added the option to mark the task as a priority while creating
-- [x] Prriorrity Tasks appear at the top along with a priority label on each task
+- [x] Priority Tasks appear at the top along with a priority label on each task
