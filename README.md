@@ -2,7 +2,7 @@
 [Link to Working Demo Video](https://youtu.be/GlxsMcLx8DM)
 
 ## Tasks Completed
--[x] New Task Button
+- [x] New Task Button
 -[x] Submit button Saves Task in SQLite Database
 -[x] Display checkbox along with each task
 -[x] Clicking the “Check” button marks the task’s state as complete
