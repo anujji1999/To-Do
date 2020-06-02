@@ -10,7 +10,7 @@ import com.anuj.to_do.onboarding.OnBoardingActivity
 
 class SplashActivity : AppCompatActivity() {
 
-    private val SPLASH_TIME_OUT:Long = 3000
+    private val SPLASH_TIME_OUT:Long = 2000
     lateinit var sharedPreferences : SharedPreferences
 
     override fun onCreate(savedInstanceState: Bundle?) {
